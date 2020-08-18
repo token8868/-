@@ -94,6 +94,4 @@
     </tbody>
 </table>
 
-## 实践案例
 
-![京东种草](https://api.kapeter.com/storage/TGDntXf3r0cUQ3KrmgMPYS1S9xN9noChbau4F0as.jpeg)
